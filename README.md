@@ -1,4 +1,4 @@
-## <h2>Hi, I'm Anh Luu!
+## <h2>Hi, I'm Anh Luu 🐷!
 
 <!--
 **ducanhmit/ducanhmit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
